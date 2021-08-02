@@ -1,0 +1,18 @@
+OBJECTS = \
+$(OBJECTS_DIR)/interThermalPhaseChangeFoam.o\
+$(OBJECTS_DIR)/MeshGraph.o\
+$(OBJECTS_DIR)/thermalPhaseChangeModel.o\
+$(OBJECTS_DIR)/newThermalPhaseChangeModel.o\
+$(OBJECTS_DIR)/InterfaceEquilibrium.o\
+$(OBJECTS_DIR)/InterfaceEquilibrium_SplitDilatation.o\
+$(OBJECTS_DIR)/noPhaseChange.o\
+$(OBJECTS_DIR)/constantPhaseChange.o\
+$(OBJECTS_DIR)/InterfaceEquilibrium_NoDilatation.o\
+$(OBJECTS_DIR)/HiLoNoPCVAlpha1.o\
+$(OBJECTS_DIR)/EmpiricalRateParameter.o\
+$(OBJECTS_DIR)/interfacialResistance.o\
+$(OBJECTS_DIR)/surfaceTensionForceModel.o\
+$(OBJECTS_DIR)/newSurfaceTensionForceModel.o\
+$(OBJECTS_DIR)/Brackbill.o\
+$(OBJECTS_DIR)/SST.o\
+$(OBJECTS_DIR)/SmoothedSF.o

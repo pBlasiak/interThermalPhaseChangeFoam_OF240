@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/dynamicKistlerAlphaContactAngleFvPatchScalarField.o\
+$(OBJECTS_DIR)/RiddersRoot.o

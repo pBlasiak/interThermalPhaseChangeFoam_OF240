@@ -1,0 +1,18 @@
+LOCAL_OBJECTS = \
+interThermalPhaseChangeFoam.o\
+MeshGraph.o\
+thermalPhaseChangeModel.o\
+newThermalPhaseChangeModel.o\
+InterfaceEquilibrium.o\
+InterfaceEquilibrium_SplitDilatation.o\
+noPhaseChange.o\
+constantPhaseChange.o\
+InterfaceEquilibrium_NoDilatation.o\
+HiLoNoPCVAlpha1.o\
+EmpiricalRateParameter.o\
+interfacialResistance.o\
+surfaceTensionForceModel.o\
+newSurfaceTensionForceModel.o\
+Brackbill.o\
+SST.o\
+SmoothedSF.o
